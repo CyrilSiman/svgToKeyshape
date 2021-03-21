@@ -1,6 +1,11 @@
 {
   "$schema": "https://raw.githubusercontent.com/sketch-hq/SketchAPI/develop/docs/sketch-plugin-manifest-schema.json",
   "icon": "icon.png",
+  "description": "Plugin used to convert SVG filter into CSS",
+  "author": "Cyril Siman",
+  "homepage": "https://github.com/CyrilSiman/svgToKeyshape",
+  "version": "0.2.0",
+  "compatibleVersion": "70",
   "commands": [
     {
       "name": "Copy SVG to Keyshape",
