@@ -12,6 +12,8 @@ This plugin convert :
 
 - You have to select only ONE layer, if necessary group your layers into only one group.
 - Go to Plugin Menu > Copy SVG to Keyshape OR use shortcut CMD + SHIFT + C
+- Congrats the SVG is available into your pasteboard 
+- Go to Keyshape and past your SVG or past into any files. 
 
 ## Installation
 
