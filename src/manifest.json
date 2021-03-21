@@ -1,0 +1,19 @@
+{
+  "$schema": "https://raw.githubusercontent.com/sketch-hq/SketchAPI/develop/docs/sketch-plugin-manifest-schema.json",
+  "icon": "icon.png",
+  "commands": [
+    {
+      "name": "Copy SVG to Keyshape",
+      "identifier": "svgtokeyshape.my-command-identifier",
+      "script": "./main.js",
+      "shortcut": "cmd shift c"
+    }
+  ],
+  "menu": {
+    "isRoot": true,
+    "title": "svgToKeyshape",
+    "items": [
+      "svgtokeyshape.my-command-identifier"
+    ]
+  }
+}
