@@ -1,6 +1,6 @@
 # build artifacts
 svgtokeyshape.sketchplugin
-svgtokeyshape.sketchplugin.zip
+*.zip
 
 # npm
 node_modules
